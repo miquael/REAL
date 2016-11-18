@@ -9,3 +9,7 @@ REAL:
 • A-Frame
 
 • Loopback (Express)
+
+# RUN
+
+node .
