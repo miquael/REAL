@@ -1,6 +1,6 @@
 # REAL
 
-An experiment in combining Node.js, React, and A-Frame
+An experiment in combining Node, React, and A-Frame
 
 REAL:
 
